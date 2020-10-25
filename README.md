@@ -16,7 +16,7 @@ Study the following references before the next laboratory meeting, on **Monday, 
 1. Introduction to MXNet: [Intro](https://mxnet.apache.org/versions/1.7.0/api/python/docs/tutorials/getting-started/crash-course/index.html).
 
 2. A Comprehensive Tutorial on Video Modeling (CVPR 2020): [Tutorial](https://bryanyzhu.github.io/videomodeling.github.io/)
-  * You should, at least, check the talk **A Chronological Review of Recent SoTA and Beyond**  by Yi Zhu [slides](https://bryanyzhu.github.io/videomodeling.github.io/slide/talk2_gluoncv_video_slide.pdf) [talk](https://youtu.be/Vox_ZnabryQ).
+  * You should, at least, check the talk **A Chronological Review of Recent SoTA and Beyond**  by Yi Zhu: [slides](https://bryanyzhu.github.io/videomodeling.github.io/slide/talk2_gluoncv_video_slide.pdf) - [talk](https://youtu.be/Vox_ZnabryQ).
 
 3. Action Recognition tutorial using the GluonCV library: [Tutorials](https://cv.gluon.ai/tutorials/index.html#action-recognition)
 
